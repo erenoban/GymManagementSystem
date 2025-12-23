@@ -3,6 +3,7 @@ Bu proje, bir spor salonunun üye kayıtlarını dijital ortamda tutmak, ödemel
 Tam CRUD İşlemleri: Üye ekleme, silme, güncelleme ve listeleme fonksiyonları eksiksiz çalışmaktadır.
 
 
+# Özellikler
 Gelişmiş Sorgulama: İsim bazlı dinamik üye arama ve ödeme tutarına göre filtreleme seçenekleri mevcuttur.
 
 
